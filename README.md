@@ -5,18 +5,18 @@ Requisitos
 
 Antes de ejecutar el código, asegúrate de tener instalado Python 3 y las siguientes bibliotecas:
 
-    NumPy
-    Pandas
-    Matplotlib
-    sklearn
+    - NumPy
+    - Pandas
+    - Matplotlib
+    - sklearn
 
 ### Cómo utilizar
 
-    Clona el repositorio en tu máquina local.
-    Abre una terminal y navega hasta la carpeta del repositorio.
-    Ejecuta el siguiente comando para entrenar el modelo y visualizar los resultados:
+Clona el repositorio en tu máquina local.
+Abre una terminal y navega hasta la carpeta del repositorio.
+Ejecuta el siguiente comando para entrenar el modelo y visualizar los resultados:
 
-(`python main.py`)
+`python main.py`
 
 
 ### Contribuciones
