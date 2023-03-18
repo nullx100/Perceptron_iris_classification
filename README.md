@@ -13,11 +13,7 @@ Antes de ejecutar el código, asegúrate de tener instalado Python 3 y las sigui
 ### Cómo utilizar
 
 Clona el repositorio en tu máquina local.
-Abre una terminal y navega hasta la carpeta del repositorio.
-Ejecuta el siguiente comando para entrenar el modelo y visualizar los resultados:
-
-`python main.py`
-
+Importa el archivo main.ipynb en Jupyter Notebook
 
 ### Contribuciones
 
